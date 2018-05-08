@@ -1,0 +1,10 @@
+D:\Users\user\Documents\Visual Studio 2017\Projects\Tray_Icon_Seed\Tray_Icon_Seed\obj\Debug\Tray_Icon_Seed.csprojResolveAssemblyReference.cache
+D:\Users\user\Documents\Visual Studio 2017\Projects\Tray_Icon_Seed\Tray_Icon_Seed\obj\Debug\Tray_Icon_Seed.Properties.Resources.resources
+D:\Users\user\Documents\Visual Studio 2017\Projects\Tray_Icon_Seed\Tray_Icon_Seed\obj\Debug\Tray_Icon_Seed.csproj.GenerateResource.cache
+D:\Users\user\Documents\Visual Studio 2017\Projects\Tray_Icon_Seed\Tray_Icon_Seed\obj\Debug\Tray_Icon_Seed.csproj.CoreCompileInputs.cache
+D:\Users\user\Documents\Visual Studio 2017\Projects\Tray_Icon_Seed\Tray_Icon_Seed\bin\Debug\Tray_Icon_Seed.exe.config
+D:\Users\user\Documents\Visual Studio 2017\Projects\Tray_Icon_Seed\Tray_Icon_Seed\bin\Debug\Tray_Icon_Seed.exe
+D:\Users\user\Documents\Visual Studio 2017\Projects\Tray_Icon_Seed\Tray_Icon_Seed\bin\Debug\Tray_Icon_Seed.pdb
+D:\Users\user\Documents\Visual Studio 2017\Projects\Tray_Icon_Seed\Tray_Icon_Seed\obj\Debug\Tray_Icon_Seed.exe
+D:\Users\user\Documents\Visual Studio 2017\Projects\Tray_Icon_Seed\Tray_Icon_Seed\obj\Debug\Tray_Icon_Seed.pdb
+D:\Users\user\Documents\Visual Studio 2017\Projects\Tray_Icon_Seed\Tray_Icon_Seed\obj\Debug\Tray_Icon_Seed.Form1.resources
